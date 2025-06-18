@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kaustubh678
+- 👋 Hi, I’m @kaustubh
 - 👀 I’m interested in learning new techstack and working on it.
 - 🌱 I’m currently learning data structure and algorithms and focussing on MERN STACK development.
 - 💞️ I’m looking to collaborate on various MERN STACK projects and open source.
